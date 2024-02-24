@@ -26,8 +26,6 @@ namespace AssignmentTwo.Controllers
         /// </example>
         [HttpGet]
         [Route("api/j2/dicegame/{m}/{n}")]
-        // http://localhost:6350/api/j2/dicegame/6/8 => "There are 5 total ways to get the sum 10."
-        // http://localhost:6350/api/j2/dicegame/5/5 => "There are 5 total ways to get the sum 10."
         public string NumberOfWaysToGetTen(int m, int n) {
             int countPossibilties = 0;
             int target = 10;
