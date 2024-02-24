@@ -12,6 +12,6 @@ This project provides solutions to various problems from the CCC using ASP.NET W
 - [Original Source](https://cemc.math.uwaterloo.ca/contests/computing/2006/stage1/juniorEn.pdf)
 - [Solution](AssignmentTwo/Controllers/DiceGameController.cs)
 
-### Adapted J3 - The New CCC (Canadian Calorie Counting)
+### Adapted J3 - The New CCC (Secret Instructions)
 - [Original Source](https://cemc.math.uwaterloo.ca/contests/computing/past_ccc_contests/2021/ccc/juniorEF.pdf)
 - [Solution](AssignmentTwo/Controllers/SecretInstructionController.cs)
